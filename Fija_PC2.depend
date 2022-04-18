@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1641535056 source:c:\users\ok\desktop\unmsm\ciclo 6 unmsm\computacion visual\codigo\practicapc02\fija_pc2\main.cpp
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<math.h>
+	<gl/glut.h>
+	<time.h>
+
+935113144 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+832837944 c:\program files (x86)\codeblocks\glut\include\gl\gl.h
+
+832394118 c:\program files (x86)\codeblocks\glut\include\gl\glu.h
+	<GL/gl.h>
+
+1650256356 source:c:\users\ok\desktop\unmsm\ciclo 6 unmsm\computacion visual\computacionvisualproyecto\main.cpp
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<math.h>
+	<gl/glut.h>
+	<time.h>
+
